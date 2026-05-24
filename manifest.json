@@ -2,11 +2,15 @@
   "name": "Paisa — Personal Finance Tracker",
   "short_name": "Paisa",
   "description": "Track your expenses, savings and bank balance",
-  "start_url": "/index.html",
+
+  "start_url": "/Paisa/",
+  "scope": "/Paisa/",
+
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#7c5cfc",
   "orientation": "portrait",
+
   "icons": [
     {
       "src": "https://placehold.co/192x192/7c5cfc/ffffff?text=₹",
