@@ -13,13 +13,12 @@
 
   "icons": [
     {
-      "src": "/Paisa/icon.png",
-    "sizes": "192x192",
-    "type": "image/png"
+      "src": "/Paisa/icons/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-
-      "src": "/Paisa/icons/icon.png"
+      "src": "/Paisa/icons/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
